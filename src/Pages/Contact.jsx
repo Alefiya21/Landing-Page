@@ -2,9 +2,7 @@ import React from 'react'
 
 const Contact = () => {
   return (
-   
-
-   <div className='bg-slate-800 min-h-screen flex flex-col items-center  text-base font-medium font-sans gap-5 text-white py-5'>
+    <div className='bg-slate-800 min-h-screen flex flex-col items-center  text-base font-medium font-sans gap-5 text-white py-5'>
         <div className=" flex  rounded-md shadow-md max-w-md ">
             <div className="font-bold mb-2">Email:</div>
             <div className="text-white">journalismunveiled@gmail.com</div>

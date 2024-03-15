@@ -10,7 +10,6 @@ function App() {
     <div> 
       <Navbar/>
        <Routes>
-       
        <Route path="/" element={<LandingPage/>} />
        <Route path="/About" element={<About/>} />
        <Route path="/contact" element={<Contact/>} />
